@@ -10,8 +10,9 @@ import lombok.NoArgsConstructor;
 public class Koala {
     private long id;
     private String name;
+    private double sleepHour;
     private double weight;
-    private int sleepHour;
+
     private String gender;
 
 
